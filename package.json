@@ -1,6 +1,6 @@
 {
   "name": "lambda-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lambda request event router",
   "main": "index.js",
   "scripts": {
